@@ -232,5 +232,5 @@ The file structure of your project should look something like this:
 ## References
 1. Original Idea <a href="https://github.com/adolfintel">Federico Dossena</a>
 2. <a href="https://www.oracle.com/java/technologies/javase/java-media-framework.html">JMF Docs</a>
-3. <a href="https://docs.oracle.com/en/java/javase/19/docs/api/index.html">JMF Docs</a>
+3. <a href="https://docs.oracle.com/en/java/javase/19/docs/api/index.html">Java Docs</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
