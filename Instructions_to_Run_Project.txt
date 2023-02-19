@@ -1,0 +1,19 @@
+
+Steps :
+
+	Step 1:
+			connect both server and client to WLAN.
+	Step 2 :
+			Run the Server first.
+			Enter the port number on which server will listen
+	Step 3 :
+			Compile the Communication module
+	Step 4 :
+			Run the Client module 
+			specify the IP Address of the Server along with port number of the server.
+			set the mic level according the need.
+	Step 5 :
+			Click on the connect button.
+	
+	Step 6 :
+			Start Voice Calling.
