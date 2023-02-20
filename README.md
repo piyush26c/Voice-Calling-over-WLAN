@@ -46,7 +46,7 @@ Implementation of Wi-Fi Calling that uses IP Address over the Wireless Local Are
 
 ### Built With
 
-These are the major frameworks & development environments that we used in the development of GoDelv.
+These are the major frameworks & development environments that we used in the development of project.
 
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
